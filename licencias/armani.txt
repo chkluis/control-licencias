@@ -1,1 +1,1 @@
-dias_restantes=1
+dias_restantes=0
